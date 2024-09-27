@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Luiz Medeiros, a computer science student at IFPB CAMPUS PICUÍ, I've been learning a lot about programming
+## Olá, me chamo Luiz Medeiros, Estudo informática pelo IFPB Campus Picuí
 
 <!--
 **LuizAdriano1/luizadriano1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
